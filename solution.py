@@ -5,5 +5,3 @@ result = (first_number + second_number) * first_number
 
 print(result)
 print(result ** 2)
-print(result % 2)
-
