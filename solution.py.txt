@@ -1,6 +1,6 @@
 first_number = int(input())
 second_nuber = int(input())
 
-result = first_number * second_number
+result = (first_number + second_number) * first_number
 
 print(result)
